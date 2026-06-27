@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Linguistics Document Exporter",
+  "description": "Hệ thống ôn luyện ngữ âm học, cú pháp học và xuất bản tài liệu chuẩn George Yule \u0027The Study of Language\u0027 (7th Edition)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
